@@ -12,3 +12,6 @@
 
 ## maven资源类
 [mvnrepository](http://mvnrepository.com/)
+
+## nginx
+
